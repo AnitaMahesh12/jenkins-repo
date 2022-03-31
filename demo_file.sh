@@ -1,1 +1,1 @@
-Good morning
+Good morning, have a nice day
