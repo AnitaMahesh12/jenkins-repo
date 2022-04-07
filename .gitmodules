@@ -1,3 +1,0 @@
-[submodule "jenkins-repo"]
-	path = jenkins-repo
-	url = git@github.com:AnitaMahesh12/jenkins-repo.git
